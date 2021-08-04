@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pat additions
+# from sharing data files
+*.tar.gz
+
+# figures
+*.pdf
+*.png
+*.svg
+.vscode
