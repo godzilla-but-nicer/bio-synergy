@@ -1,0 +1,36 @@
+.v 6
+
+.l 1 node1
+.l 2 node2
+.l 3 node3
+.l 4 node4
+.l 5 node5
+.l 6 node6
+
+# 1 node1
+.n 1 0
+
+# 2 node2
+.n 2 1 6
+1 1
+0 0
+
+# 3 node3
+.n 3 2 1 2
+11 0
+10 1
+01 1
+00 0
+
+# 4 node4
+.n 4 2 3 5
+11 1
+10 1
+01 1
+00 0
+
+# 5 node5
+.n 5 0
+
+# 6 node6
+.n 6 0
