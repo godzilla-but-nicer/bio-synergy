@@ -6,7 +6,7 @@ logic so we might as well use this. This is a guide to the format pulled from
 the `cana` documentation.
 
 ```
-# .v = number of nodes\
+# .v = number of nodes
 .v 1
 # .l = node label
 .l 1 node-a
